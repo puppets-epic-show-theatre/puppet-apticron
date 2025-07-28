@@ -1,0 +1,8 @@
+{
+  "metadata.json": "02bcba5b522e0832f377422261500d58",
+  "manifests/init.pp": "614c41941890fa009d2a18629a14b7f2",
+  "manifests/params.pp": "f336df34a3a998718df78882934a13d8",
+  "templates/apticron.conf.erb": "460cad0d52e9bfd25d26c2924e65b25a",
+  "LICENSE": "aecf7af325980829ce4aa96fbff06a76",
+  "README.md": "161dfe00c096258b896ca2823b22e9b9"
+}

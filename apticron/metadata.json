@@ -1,0 +1,18 @@
+{
+  "name": "pest-apticron",
+  "version": "1.0.0",
+  "author": "Puppets Epic Show Theatre",
+  "summary": "Installs apticron. This is a fork of the original apticron module by Rentabiliweb.",
+  "license": "ISC",
+  "source": "https://github.com/puppets-epic-show-theatre/puppet-apticron",
+  "project_page": "https://github.com/puppets-epic-show-theatre/puppet-apticron",
+  "issues_url": "https://github.com/puppets-epic-show-theatre/puppet-apticron/issues",
+  "dependencies": [],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.10.0 < 8.0.0"
+    }
+  ],
+  "tags": [ "puppet", "apt", "aptitude", "dpkg", "packages", "apticron", "security", "rentabiliweb" ]
+}
